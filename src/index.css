@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+body{
+    background-color: #e6e6ff;
+    width: 100vw;
+    overflow-x: hidden;
+    font-family: "Montserrat",sans-serif;
+}
+/* @keyframes slowSpin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animatedButton {
+  animation: slowSpin 10s linear infinite;
+} */
+
+.ql-container{
+  border:none  !important
+}
+.ql-toolbar{
+  border:none  !important
+}
+.ql-editor{
+  border:none  !important
+}
